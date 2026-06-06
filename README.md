@@ -9,25 +9,27 @@ This system is made to reduce manual work in procurement. Instead of handling ev
 
 📦 Add and store vendor quotations
 ⚖️ Compare vendors based on price and delivery
+<br>
 🧾 Generate and view invoices
+<br>
 📊 Get a simple scoring idea of which vendor is better
-✨ Features
+<br>✨ Features
 Vendor quotation management
-Basic AI-based comparison logic 🤖
-Invoice generation and viewing 🧾
-Dashboard for quick overview 📊
-Clean dark UI for better experience 🎨
-⚙️ How it works
+Basic AI-based comparison logic 🤖<br>
+Invoice generation and viewing 🧾<br>
+Dashboard for quick overview 📊<br>
+Clean dark UI for better experience 🎨<br>
+<br>⚙️ How it works
 
 Users enter vendor details like price and delivery time. The system stores the data and uses a simple scoring formula to rank vendors. Based on this, users can decide which vendor is more suitable.
 
 Invoices are generated from saved quotation data and can be viewed individually or printed.
 
-🛠️ Tech Stack
-Python (Flask) 🐍
-SQLite 🗄️
-HTML, CSS, JavaScript 🌐
-🎯 Why this project
+<br>🛠️ Tech Stack
+<br>Python (Flask) 🐍
+<br>SQLite 🗄️
+<br>HTML, CSS, JavaScript 🌐
+<br>🎯 Why this project
 
 This project was built to understand how real procurement systems work in companies — including vendor handling, comparison logic, and invoice flow.
 
