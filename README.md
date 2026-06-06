@@ -29,11 +29,11 @@ Invoices are generated from saved quotation data and can be viewed individually 
 <br>Python (Flask) 🐍
 <br>SQLite 🗄️
 <br>HTML, CSS, JavaScript 🌐
-<br>🎯 Why this project
+<br>🎯 Why this project<br>
 
 This project was built to understand how real procurement systems work in companies — including vendor handling, comparison logic, and invoice flow.
 
-🚀 Future improvements
-📈 Better analytics dashboard
-🔐 Improved authentication system
-🤖 Smarter AI comparison logic
+<br>🚀 Future improvements<br>
+📈 Better analytics dashboard<br>
+🔐 Improved authentication system<br>
+🤖 Smarter AI comparison logic<br>
