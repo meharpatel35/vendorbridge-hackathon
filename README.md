@@ -1,47 +1,37 @@
 # vendorbridge-hackathon
-🌐 VendorBridge – AI Powered Procurement SaaS
+🌐 VendorBridge!
 
-VendorBridge is a modern, AI-powered procurement management system built using Flask and SQLite. It helps businesses manage vendors, create quotations, compare pricing intelligently, and generate invoices in a fast and structured workflow.
+VendorBridge is a simple procurement management web app built using Flask and SQLite. It helps manage vendors, create quotations, compare prices, and generate invoices in a structured way.
 
-🚀 Project Overview
+📌 What this project does
 
-VendorBridge transforms traditional procurement into a smart digital system. It replaces manual vendor handling with an automated workflow that improves decision-making speed and accuracy using AI-based scoring logic.
+This system is made to reduce manual work in procurement. Instead of handling everything in spreadsheets, users can:
 
-✨ Key Highlights
-📦 Vendor and quotation management system
-🤖 AI-based vendor scoring and comparison
-🧾 Automated invoice generation system
-📊 Smart dashboard with structured analytics view
-🌙 Modern dark-themed SaaS UI design
-⚡ Fast, lightweight Flask backend
-🧠 AI Feature
+📦 Add and store vendor quotations
+⚖️ Compare vendors based on price and delivery
+🧾 Generate and view invoices
+📊 Get a simple scoring idea of which vendor is better
+✨ Features
+Vendor quotation management
+Basic AI-based comparison logic 🤖
+Invoice generation and viewing 🧾
+Dashboard for quick overview 📊
+Clean dark UI for better experience 🎨
+⚙️ How it works
 
-VendorBridge uses a simple intelligence model to rank vendors based on:
+Users enter vendor details like price and delivery time. The system stores the data and uses a simple scoring formula to rank vendors. Based on this, users can decide which vendor is more suitable.
 
-💰 Price efficiency
-🚚 Delivery speed
-📈 Overall performance score
+Invoices are generated from saved quotation data and can be viewed individually or printed.
 
-This helps in identifying:
+🛠️ Tech Stack
+Python (Flask) 🐍
+SQLite 🗄️
+HTML, CSS, JavaScript 🌐
+🎯 Why this project
 
-🏆 Best vendor
-👍 Good option
-⚠ Risk vendor
-🖥️ Tech Stack
-Python (Flask)
-SQLite Database
-HTML, CSS, JavaScript
-Basic AI scoring logic
-🎯 Purpose of Project
+This project was built to understand how real procurement systems work in companies — including vendor handling, comparison logic, and invoice flow.
 
-This project is built to simulate a real-world SaaS procurement platform similar to modern enterprise dashboards. It demonstrates full-stack development skills, database handling, and AI-based decision-making logic.
-
-📌 Future Improvements
-🤖 Real AI chatbot integration
-📊 Advanced analytics charts
-📄 PDF invoice download system
-☁ Cloud deployment
-🔐 User authentication & roles
-💡 Vision
-
-VendorBridge aims to simplify procurement systems by making them faster, smarter, and fully automated using AI-driven workflows.
+🚀 Future improvements
+📈 Better analytics dashboard
+🔐 Improved authentication system
+🤖 Smarter AI comparison logic
